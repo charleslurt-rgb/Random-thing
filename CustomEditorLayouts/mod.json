@@ -1,0 +1,12 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "charleslurt.custom-editor-layouts",
+  "name": "Custom Editor Layouts",
+  "version": "0.1.0",
+  "developer": "charleslurt-rgb",
+  "description": "Touch-friendly tools for custom Geometry Dash editor layouts.",
+  "dependencies": {}
+}
